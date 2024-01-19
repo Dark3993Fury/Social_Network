@@ -9,7 +9,7 @@ This repository houses cutting-edge deep learning code for unraveling the secret
 ## Quick Start:
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/your-username/Social_Network.git
+   git clone https://github.com/Dark39Fury93/Social_Network.git
    ```
 
 2. **Explore the Notebooks:**
